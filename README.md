@@ -1,42 +1,39 @@
-# 🛡️ Linux Hardening Basics
+# ⚡ sigint007adm-optimize  
 
-Guía práctica para mejorar la seguridad de sistemas Linux.
+**Optimización · Rendimiento · Personalización de PCs**  
 
-## 🔍 Áreas cubiertas
+Este repositorio está dedicado a scripts, configuraciones y guías para lograr PCs **más rápidos, estables y visualmente únicos**, tanto en Windows como Linux.  
 
-- SSH seguro  
-- Auditoría de logs y procesos  
-- Configuración de firewall (UFW / iptables)  
-- Gestión de usuarios y permisos  
-- Detección de rootkits y malware  
-- Hardening de servicios comunes (Apache, SSH, cron)
+---
 
-## 📁 Estructura del repositorio
+## 📂 Contenido  
 
-```plaintext
-linux-hardening-basics/
-├── ssh-security.md
-├── firewall-config.md
-├── user-permissions.md
-├── malware-detection.md
-├── service-hardening.md
-└── README.md
-```
+- 💻 **Windows 10**
+  - Scripts de debloat (eliminar bloatware).
+  - Optimización de arranque.
+  - Ajustes de servicios.  
 
-## ⚙️ Requisitos
+- 🖥️ **Windows 11**
+  - Gaming Mode.
+  - Optimización de RAM y CPU.
+  - Tweaks de interfaz.  
 
-- Sistema Linux (Debian, Ubuntu, CentOS, Arch...)  
-- Acceso root o sudo  
-- Conocimientos básicos de terminal
+- 🐧 **Linux**
+  - Ajustes de kernel para rendimiento.
+  - Configuración de swap, I/O y memoria.
+  - Extensiones y personalización en GNOME/KDE.  
 
-## 📚 Recursos recomendados
+- 🎨 **Mods Visuales**
+  - Temas personalizados.
+  - Ajustes de registro (Windows).
+  - Colección de configuraciones estéticas.  
 
-- CIS Benchmarks  
-- Lynis  
-- Debian Security Manual
+---
 
-## ✍️ Autor
+## 🚀 Objetivo  
+Que cualquier usuario pueda tener un sistema **más veloz, optimizado y adaptado a su estilo** en pocos pasos.  
 
-**Sigint007adm** – Técnico IT Freelance  
-📧 sigint007adm@proton.me  
-📍 Madrid, España
+---
+
+## 📬 Contacto  
+👉 Comparte tu feedback en [@sigint007adm](https://twitter.com/sigint007adm)  
